@@ -2,7 +2,7 @@
 
 ![Pratham's Github Stats](https://github-readme-stats.vercel.app/api?username=pratham1729&show_icons=true&theme=dracula)
 
-# CONNECT WITH ME
+## Connect with me
 <div>
   
   [![GitHub](https://img.shields.io/github/followers/pratham1729?label=pratham1729&style=social)](https://github.com/pratham1729)
